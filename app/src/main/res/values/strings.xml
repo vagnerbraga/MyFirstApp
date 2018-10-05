@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_cadastro_cliente">Cadastro Cliente</string>
+    <string name="str_nome">Nome</string>
+    <string name="str_endereco">Endereço</string>
+    <string name="str_email">Email</string>
+    <string name="str_telefone">Telefone</string>
+    <string name="str_ok">Ok</string>
+    <string name="str_voltar">Voltar</string>
+    <string name="str_aviso">Aviso</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
